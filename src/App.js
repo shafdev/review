@@ -1,10 +1,9 @@
-
-
+import Review from "./Review";
 
 function App() {
   return (
     <div >
-      Hello World
+      <Review/>
     </div>
   );
 }
