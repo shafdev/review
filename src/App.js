@@ -2,7 +2,7 @@ import Review from "./Review";
 
 function App() {
   return (
-    <div >
+    <div className="container">
       <Review/>
     </div>
   );
